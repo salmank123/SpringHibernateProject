@@ -1,1 +1,1 @@
-web:    java -cp target/classes:target/dependency/* LinkController
+web:    java -cp target/classes:target/dependency/* spr-mvc-hib
