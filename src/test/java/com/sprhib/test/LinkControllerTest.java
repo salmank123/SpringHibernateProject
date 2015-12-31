@@ -1,4 +1,4 @@
-package com.sprhib.test;
+/*package com.sprhib.test;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
@@ -47,3 +47,4 @@ public class LinkControllerTest {
 	}
 	
 }
+*/

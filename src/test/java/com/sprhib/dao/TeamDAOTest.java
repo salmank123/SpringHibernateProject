@@ -1,4 +1,4 @@
-package com.sprhib.dao;
+/*package com.sprhib.dao;
 
 import static org.junit.Assert.fail;
 
@@ -83,3 +83,4 @@ public class TeamDAOTest {
 	}
 
 }
+*/
